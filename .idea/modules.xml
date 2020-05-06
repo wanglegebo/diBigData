@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/djBigData.iml" filepath="$PROJECT_DIR$/djBigData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink_realtime/flink_realtime.iml" filepath="$PROJECT_DIR$/flink_realtime/flink_realtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flume_Intercetor/flume_Intercetor.iml" filepath="$PROJECT_DIR$/flume_Intercetor/flume_Intercetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logCollector/logCollector.iml" filepath="$PROJECT_DIR$/logCollector/logCollector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark_warehouse/spark_warehouse.iml" filepath="$PROJECT_DIR$/spark_warehouse/spark_warehouse.iml" />
+    </modules>
+  </component>
+</project>
